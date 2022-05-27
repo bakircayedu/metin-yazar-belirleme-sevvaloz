@@ -1,0 +1,11 @@
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\bin\Debug\MetinYazariBelirlemeProjesi.exe.config
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\bin\Debug\MetinYazariBelirlemeProjesi.exe
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\bin\Debug\MetinYazariBelirlemeProjesi.pdb
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.csproj.AssemblyReference.cache
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.Form1.resources
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.Properties.Resources.resources
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.csproj.GenerateResource.cache
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.exe
+C:\Users\holly\Desktop\MetinYazariBelirlemeProjesi\MetinYazariBelirlemeProjesi\obj\Debug\MetinYazariBelirlemeProjesi.pdb
